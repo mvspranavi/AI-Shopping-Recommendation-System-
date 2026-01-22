@@ -1,4 +1,4 @@
-# 🛍️ AI Shopping Recommendation System
+# 🛍️ AI-Powered Shopping Recommendation System
 
 This project is an intelligent shopping recommendation platform that delivers personalized product suggestions based on customer ID. It combines traditional data insights with advanced AI agents for a rich, dynamic recommendation experience.
 
